@@ -3,9 +3,9 @@
 ### Education
 University of California, Davis, Bachelor of Arts in Japanese (2018-2024)
 
-Doshisha University (2022 - 2023) sponsored by the Japanese Government (MEXT) Scholarship for Japanese Studies
+Doshisha University, Kyoto, Japan (Fall 2022 - Fall 2023) 
 
-Yonsei University (June 26th- Aug 7th, 2024) sponsored by UCEAP and Benjamin A. Gilman International Scholarship 
+Yonsei University, Seoul, South Korea (Summer 2024) 
 
 
 ### Pavel's reading club - パビが読み、好む文章
@@ -19,6 +19,14 @@ Link: https://books.google.com/books/about/Big_Data.html?id=NXw7DwAAQBAJ
 *Big Data Challenges - Society, Security, Innovation and Ethics*
 
 ### Work experience
+
+### Research Interest
+- Data Science for social good
+- Ethical machine learning models
+- underrepresented groups in STEM 
+
+ ### Skills
+ - HTML web scrapping
 
 ### My Articles
 

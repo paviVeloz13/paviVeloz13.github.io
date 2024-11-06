@@ -26,7 +26,10 @@ Link: https://books.google.com/books/about/Big_Data.html?id=NXw7DwAAQBAJ
 - underrepresented groups in STEM 
 
 ## Skills
- - HTML web scrapping
+ - HTML web crawler
+ - SQL: Table joining, aggregates, filtering
+ - R: data cleaning, data filter, data visualisation, regression models
+ - python: K-means clustering
 
 ## My Articles
 

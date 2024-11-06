@@ -1,9 +1,10 @@
 # Pavel's first portfolio website
 
 ### Education
-Bachelor of Arts in Japanese
-University of California, Davis, 2024 Class
+University of California, Davis, Bachelor of Arts in Japanese (2018-2024)
+
 Doshisha University (2022 - 2023) sponsored by the Japanese Government (MEXT) Scholarship for Japanese Studies
+
 Yonsei University (June 26th- Aug 7th, 2024) sponsored by UCEAP and Benjamin A. Gilman International Scholarship 
 
 ### Pavel's reading club パビが読み、好む文章

@@ -15,6 +15,9 @@ Have you heard "big data" being thrown left and right, hearing how important it 
 
 Link: https://books.google.com/books/about/Big_Data.html?id=NXw7DwAAQBAJ 
 
+## Books currently reading
+*Big Data Challenges - Society, Security, Innovation and Ethics*
+
 ### Work experience
 
 ### My Articles

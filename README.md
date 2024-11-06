@@ -7,8 +7,8 @@ Doshisha University (2022 - 2023) sponsored by the Japanese Government (MEXT) Sc
 
 Yonsei University (June 26th- Aug 7th, 2024) sponsored by UCEAP and Benjamin A. Gilman International Scholarship 
 
-パビが読み、好む文章
-### Pavel's reading club 
+
+### Pavel's reading club - パビが読み、好む文章
 *Big Data: A Very Short Introduction* by Dawn E. Holmes 
 
 Have you heard "big data" being thrown left and right, hearing how important it is, but you don't which data they are talking about and if its so big, where they have it? Well this book is a great starting point. Dawn E. Holmes, a faculty from UC Santa Cruz, created this beginner introduction for those interested in the data analytics and data science fields. By the end of the book you will have plenty big data topics to research.

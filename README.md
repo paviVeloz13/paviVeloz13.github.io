@@ -18,6 +18,9 @@ Link: https://books.google.com/books/about/Big_Data.html?id=NXw7DwAAQBAJ
 ### Books currently reading
 *Big Data Challenges - Society, Security, Innovation and Ethics*
 
+### Books I want to read
+- Race After Technology: Abolitionist Tools for the New Jim Code 
+
 ## Work experience
 
 ## Research Interest
